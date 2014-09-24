@@ -1,0 +1,197 @@
+---
+title       : Soc 303 
+subtitle    : Math Review, Week 5 9/24/14
+author      : Sherri Verdugo
+job         : Instructor, CSUF
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [mathjax, quiz, bootstrap]  # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Math Review
+
+Topic                                  | Topic
+---------------------------------------|------------
+Fractions                              | Decimals
+Percentages                            | Rate
+Ratio                                  | Proportion
+Rounding                               | Averaging (the Mean again!)
+Converting Fractions to Percentages    | Converting Decimals to Percentages
+Converting Percentages to Fractions    | Computing with a Percentage            
+Converting other Units of Measure      | The math in this course is logical!
+
+--- .class #id 
+
+## Fractions
+
+* Fragment 
+* Part of a whole
+* Small part
+* Bit or portion
+* Designated by placing one number over another number
+    * 2/5 or 9/12
+* Composed of two pats:
+    * Numerator (number above the line)
+    * Denominator (number below the line)
+* Always reduce the fraction when you can
+    * `9/12 = 3/4`
+
+--- .class #id
+
+## Decimals
+
+Decimals are an amount that is less than one
+
+* 1/10 = 0.10
+* 1/100 = 0.01
+* 1/1000 = 0.001
+
+*This is important when we test for significance in statistics*
+
+--- .class #id
+
+## Percentages
+
+* The number of times something occurs every 100 times
+* A specific rate followed by the % sign
+* A proportion of a whole
+* Converting decimal to percentage:
+    * multiply the decimal by 100
+
+--- .class #id
+
+## Rate
+
+* A value or price (think gas price per gallon)
+* A unit of something (think birthrate, cost of living, etc.)
+* A ratio, proportion, or rank
+* Usually expressed as a percentage
+
+--- .class #id
+
+## Ratio
+
+* Relationship between things 
+* Relationship between numbers
+* Reported as a fraction or numbers side by side
+    * 2:10 is actually 2 out of 10 or 1 out of 5
+* Can be reduced (as done above)
+
+--- .class #id 
+
+## Proportion
+
+* A relationship of one portion to another
+* A relationship to the whole
+* A relationship of one thing to another
+* A ratio in which the elements in the numerator must be included in the denominator
+
+--- .class #id
+
+
+## Averaging: the Mean again!
+
+* Average is the mean, in this class it is the arithmetic mean...it is not the median or mode!
+* Computing is easy!
+    * Add all the scores (numerator)
+    * N = the number of items in the distribution (denominator)
+* The equation: where $\Sigma$ is the sum 
+    * $Average=\frac{\Sigma Scores}{N}$
+
+--- .class #id
+
+## Rounding
+
+* Rounding approximates the total final number
+* Do not round until the very end of the process!
+* Carried to indicates what decimal place is used
+    * 2 decimal places = 13.01
+* In this class: we use two or three decimal places meaning: REPORT THREE PLACES
+    * 13.013
+* If the answer is to the nearest whole number
+    * Round up (if 5 and over) -> 13.5 = 14
+    * Round down (if lower than 5) -> 14.3 = 14
+
+--- .class #id
+    
+    
+## Converting Fractions to Percentages   
+
+* Divide the numerator by the denominator
+* Multiply by 100 
+* Add a percent sign
+
+`60/80 = 0.75 * 100 = 75%`
+
+--- .class #id
+
+## Converting Ratio to Percentage
+
+* Divide the numerator by the denominator
+* Multiply the result (quotient) by 100
+* Add a percent sign
+* To change 1:8 to a percentage
+
+`1/8 = 0.125 X 100 = 12.5%`
+
+--- .class #id
+
+## Converting Decimals to Percentages
+
+* Multiply the decimal by 100 (moves decimal point two places to the right)
+* Add a percent sign
+* Convert 0.75 to a percentage
+
+`0.75 * 100 = 75%`
+
+--- .class #id
+
+## Converting Percentages and Fractions   
+
+* Remove the percent sign
+* Place the percentage number in the numerator
+* Place 100 in the denominator
+* Convert to the lowest fraction
+* Convert 25% to a fraction
+
+`25/100 = 1/4`
+
+--- .class #id
+
+## Computing with a Percentage            
+
+* Convert the percent to a decimal
+* Example 40% of 100 scores
+
+`0.40 * 100 = 40`
+
+--- .class #id
+
+## Converting other Units of Measure
+
+* May need to convert metric to U.S. standards
+* Data must be analyzed in the same units
+* Linear Measures
+
+Unit    | Conversion
+--------|------------
+1 cm    | 0.0328 foot; 0.3937 inch
+1 inch  | 2.54 cm
+1 foot  | 0.3048 meter
+1 meter | 1.0936 yd; 3.2808 feet; 39.37 inches
+1 mile  | 1.6094 km
+1 km    | 0.6214 miles
+
+--- .class #id
+
+## Weights and Liquids
+
+Weight Measures             | Liquid Measures
+----------------------------|------------------
+1 gm = 0.0022 lb; 0.0353 oz | 1 quart = 0.94633 liter
+1 kg = 2.2046 lb            | 1 liter = 0.2642 gallons; 1.0567 quarts
+1 lb = 0.4536 kg; 45.36 gm  |
+1 oz = 28.3495 gm           |
